@@ -49548,15 +49548,39 @@ function hasScrolled() {
 
 /***/ }),
 
+/***/ "./resources/sass/app/projects.scss":
+/*!******************************************!*\
+  !*** ./resources/sass/app/projects.scss ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
+/***/ "./resources/sass/app/services.scss":
+/*!******************************************!*\
+  !*** ./resources/sass/app/services.scss ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ 0:
-/*!********************************************************************************************************!*\
-  !*** multi ./resources/js/app/main.js ./resources/sass/app/main.scss ./resources/sass/admin/main.scss ***!
-  \********************************************************************************************************/
+/*!******************************************************************************************************************************************************************************!*\
+  !*** multi ./resources/js/app/main.js ./resources/sass/app/main.scss ./resources/sass/app/projects.scss ./resources/sass/app/services.scss ./resources/sass/admin/main.scss ***!
+  \******************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! D:\JAVIER\Documents\Proyectos\consorcio-sca\resources\js\app\main.js */"./resources/js/app/main.js");
 __webpack_require__(/*! D:\JAVIER\Documents\Proyectos\consorcio-sca\resources\sass\app\main.scss */"./resources/sass/app/main.scss");
+__webpack_require__(/*! D:\JAVIER\Documents\Proyectos\consorcio-sca\resources\sass\app\projects.scss */"./resources/sass/app/projects.scss");
+__webpack_require__(/*! D:\JAVIER\Documents\Proyectos\consorcio-sca\resources\sass\app\services.scss */"./resources/sass/app/services.scss");
 module.exports = __webpack_require__(/*! D:\JAVIER\Documents\Proyectos\consorcio-sca\resources\sass\admin\main.scss */"./resources/sass/admin/main.scss");
 
 
